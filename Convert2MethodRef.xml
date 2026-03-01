@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/Courier.java</file>
+  <line>55</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid</package>
+  <entry_point TYPE="method" FQNAME="name.modid.Courier void onInitialize()" />
+  <problem_class id="Convert2MethodRef" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Lambda can be replaced with method reference</problem_class>
+  <description>Lambda can be replaced with method reference</description>
+  <highlighted_element>DeliveryManager.tick(server)</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>28</length>
+</problem>
+</problems>

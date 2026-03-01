@@ -1,0 +1,18 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>163</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager name.modid.delivery.DeliveryConfig.Restaurant pickRestaurant(java.lang.String excludeId)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter always has the same value</problem_class>
+  <hints>
+    <hint value="excludeId null" />
+  </hints>
+  <description>Value of parameter &lt;code&gt;excludeId&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>excludeId</highlighted_element>
+  <language>JAVA</language>
+  <offset>67</offset>
+  <length>9</length>
+</problem>
+</problems>

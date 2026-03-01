@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>94</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="AutoCloseableResource" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">AutoCloseable used without 'try'-with-resources</problem_class>
+  <description>'ServerLevel' used without 'try'-with-resources statement #loc</description>
+  <highlighted_element>level</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>109</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void deliver(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="AutoCloseableResource" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">AutoCloseable used without 'try'-with-resources</problem_class>
+  <description>'ServerLevel' used without 'try'-with-resources statement #loc</description>
+  <highlighted_element>level</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>5</length>
+</problem>
+</problems>

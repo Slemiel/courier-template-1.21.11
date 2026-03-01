@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryConfig.java</file>
+  <line>9</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="class" FQNAME="name.modid.delivery.DeliveryConfig.Restaurant" />
+  <problem_class id="ClassCanBeRecord" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class can be record class</problem_class>
+  <description>Class can be record class</description>
+  <highlighted_element>Restaurant</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>10</length>
+</problem>
+</problems>

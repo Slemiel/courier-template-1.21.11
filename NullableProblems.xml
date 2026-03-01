@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/client/java/name/modid/CourierDataGenerator.java</file>
+  <line>8</line>
+  <module>courier-template-1.21.11.client</module>
+  <package>name.modid</package>
+  <entry_point TYPE="method" FQNAME="name.modid.CourierDataGenerator void onInitializeDataGenerator(net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator fabricDataGenerator)" />
+  <problem_class id="NullableProblems" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">@NotNull/@Nullable problems</problem_class>
+  <description>Not annotated parameter overrides @NullMarked parameter</description>
+  <highlighted_element>fabricDataGenerator</highlighted_element>
+  <language>JAVA</language>
+  <offset>59</offset>
+  <length>19</length>
+</problem>
+</problems>

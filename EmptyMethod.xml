@@ -1,0 +1,50 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/client/java/name/modid/mixin/client/ExampleClientMixin.java</file>
+  <line>12</line>
+  <module>courier-template-1.21.11.client</module>
+  <package>name.modid.mixin.client</package>
+  <entry_point TYPE="method" FQNAME="name.modid.mixin.client.ExampleClientMixin void init(org.spongepowered.asm.mixin.injection.callback.CallbackInfo info)" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>25</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void init()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/mixin/ExampleMixin.java</file>
+  <line>12</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.mixin</package>
+  <entry_point TYPE="method" FQNAME="name.modid.mixin.ExampleMixin void init(org.spongepowered.asm.mixin.injection.callback.CallbackInfo info)" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+</problems>

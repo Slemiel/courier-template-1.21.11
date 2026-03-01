@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/Courier.java</file>
+  <line>25</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid</package>
+  <entry_point TYPE="method" FQNAME="name.modid.Courier void onInitialize()" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>90</offset>
+  <length>1</length>
+</problem>
+</problems>

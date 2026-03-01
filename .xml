@@ -1,0 +1,53 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/client/java/name/modid/CourierClient.java</file>
+  <line>5</line>
+  <module>courier-template-1.21.11.client</module>
+  <package>name.modid</package>
+  <entry_point TYPE="class" FQNAME="name.modid.CourierClient" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>13</length>
+  <highlighted_element>CourierClient</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/client/java/name/modid/CourierDataGenerator.java</file>
+  <line>6</line>
+  <module>courier-template-1.21.11.client</module>
+  <package>name.modid</package>
+  <entry_point TYPE="class" FQNAME="name.modid.CourierDataGenerator" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>20</length>
+  <highlighted_element>CourierDataGenerator</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/Courier.java</file>
+  <line>17</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid</package>
+  <entry_point TYPE="class" FQNAME="name.modid.Courier" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+  <highlighted_element>Courier</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

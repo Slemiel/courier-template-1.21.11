@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/CustomerGenerator.java</file>
+  <line>44</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.CustomerGenerator boolean isValidGround(net.minecraft.world.level.Level level, net.minecraft.core.BlockPos ground)" />
+  <problem_class id="Deprecation" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Deprecated API usage</problem_class>
+  <description>'isSolid()' is deprecated</description>
+  <highlighted_element>isSolid</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>7</length>
+</problem>
+</problems>

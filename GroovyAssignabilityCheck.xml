@@ -1,0 +1,38 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>26</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GroovyAssignabilityCheck" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incompatible type assignments</problem_class>
+  <description>Cannot infer argument types</description>
+  <highlighted_element>sourceSets.main</highlighted_element>
+  <language>Groovy</language>
+  <offset>13</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>27</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GroovyAssignabilityCheck" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incompatible type assignments</problem_class>
+  <description>Cannot infer argument types</description>
+  <highlighted_element>sourceSets.client</highlighted_element>
+  <language>Groovy</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>85</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GroovyAssignabilityCheck" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incompatible type assignments</problem_class>
+  <description>Cannot infer argument types</description>
+  <highlighted_element>components.java</highlighted_element>
+  <language>Groovy</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+</problems>

@@ -1,0 +1,50 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/.github/workflows/build.yml</file>
+  <line>14</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.github/workflows/build.yml" />
+  <problem_class id="UndefinedAction" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Undefined action/file reference</problem_class>
+  <description>Unresolved action/workflow reference: &quot;actions/checkout@v4&quot;</description>
+  <highlighted_element>actions/checkout@v4</highlighted_element>
+  <language>yaml</language>
+  <offset>14</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/.github/workflows/build.yml</file>
+  <line>16</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.github/workflows/build.yml" />
+  <problem_class id="UndefinedAction" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Undefined action/file reference</problem_class>
+  <description>Unresolved action/workflow reference: &quot;gradle/actions/wrapper-validation@v4&quot;</description>
+  <highlighted_element>gradle/actions/wrapper-validation@v4</highlighted_element>
+  <language>yaml</language>
+  <offset>14</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/.github/workflows/build.yml</file>
+  <line>18</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.github/workflows/build.yml" />
+  <problem_class id="UndefinedAction" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Undefined action/file reference</problem_class>
+  <description>Unresolved action/workflow reference: &quot;actions/setup-java@v4&quot;</description>
+  <highlighted_element>actions/setup-java@v4</highlighted_element>
+  <language>yaml</language>
+  <offset>14</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/.github/workflows/build.yml</file>
+  <line>27</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.github/workflows/build.yml" />
+  <problem_class id="UndefinedAction" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Undefined action/file reference</problem_class>
+  <description>Unresolved action/workflow reference: &quot;actions/upload-artifact@v4&quot;</description>
+  <highlighted_element>actions/upload-artifact@v4</highlighted_element>
+  <language>yaml</language>
+  <offset>14</offset>
+  <length>26</length>
+</problem>
+</problems>

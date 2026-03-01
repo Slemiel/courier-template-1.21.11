@@ -1,0 +1,62 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>26</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GrUnresolvedAccess" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved reference expression</problem_class>
+  <description>Cannot resolve symbol 'main'</description>
+  <highlighted_element>main</highlighted_element>
+  <language>Groovy</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>27</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GrUnresolvedAccess" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved reference expression</problem_class>
+  <description>Cannot resolve symbol 'client'</description>
+  <highlighted_element>client</highlighted_element>
+  <language>Groovy</language>
+  <offset>24</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>73</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GrUnresolvedAccess" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved reference expression</problem_class>
+  <description>Cannot resolve symbol 'base'</description>
+  <highlighted_element>base</highlighted_element>
+  <language>Groovy</language>
+  <offset>41</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>84</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GrUnresolvedAccess" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved reference expression</problem_class>
+  <description>Cannot resolve symbol 'archives_base_name'</description>
+  <highlighted_element>archives_base_name</highlighted_element>
+  <language>Groovy</language>
+  <offset>24</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>85</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class id="GrUnresolvedAccess" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved reference expression</problem_class>
+  <description>Cannot resolve symbol 'java'</description>
+  <highlighted_element>java</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>170</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager name.modid.delivery.DeliveryConfig.Restaurant pickRestaurant(java.lang.String excludeId)" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>3</length>
+</problem>
+</problems>

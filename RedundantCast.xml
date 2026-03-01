@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>66</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;player.level()&lt;/code&gt; to &lt;code&gt;ServerLevel&lt;/code&gt; is redundant</description>
+  <highlighted_element>ServerLevel</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>94</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;player.level()&lt;/code&gt; to &lt;code&gt;ServerLevel&lt;/code&gt; is redundant</description>
+  <highlighted_element>ServerLevel</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>109</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void deliver(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;player.level()&lt;/code&gt; to &lt;code&gt;ServerLevel&lt;/code&gt; is redundant</description>
+  <highlighted_element>ServerLevel</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>11</length>
+</problem>
+</problems>

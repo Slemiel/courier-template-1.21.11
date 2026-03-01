@@ -1,0 +1,2614 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/gradle.properties</file>
+  <line>2</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradle.properties" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'jvmargs'</description>
+  <highlighted_element>jvmargs</highlighted_element>
+  <language>Properties</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>40</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ulimit'</description>
+  <highlighted_element>ulimit</highlighted_element>
+  <language>Shell Script</language>
+  <offset>71</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>88</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'CDPATH'</description>
+  <highlighted_element>CDPATH</highlighted_element>
+  <language>Shell Script</language>
+  <offset>38</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>123</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>Shell Script</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>125</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>Shell Script</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>134</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>Shell Script</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>148</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ulimit'</description>
+  <highlighted_element>ulimit</highlighted_element>
+  <language>Shell Script</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>156</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ulimit'</description>
+  <highlighted_element>ulimit</highlighted_element>
+  <language>Shell Script</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>167</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'appname'</description>
+  <highlighted_element>appname</highlighted_element>
+  <language>Shell Script</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>175</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>Shell Script</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>207</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'shellness'</description>
+  <highlighted_element>shellness</highlighted_element>
+  <language>Shell Script</language>
+  <offset>23</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>228</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'readarray'</description>
+  <highlighted_element>readarray</highlighted_element>
+  <language>Shell Script</language>
+  <offset>4</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>244</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'alnum'</description>
+  <highlighted_element>alnum</highlighted_element>
+  <language>Shell Script</language>
+  <offset>21</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>27</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'setlocal'</description>
+  <highlighted_element>setlocal</highlighted_element>
+  <language>textmate</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>46</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ERRORLEVEL'</description>
+  <highlighted_element>ERRORLEVEL</highlighted_element>
+  <language>textmate</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>76</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dorg'</description>
+  <highlighted_element>Dorg</highlighted_element>
+  <language>textmate</language>
+  <offset>60</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>76</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'appname'</description>
+  <highlighted_element>appname</highlighted_element>
+  <language>textmate</language>
+  <offset>72</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew.bat</file>
+  <line>91</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'endlocal'</description>
+  <highlighted_element>endlocal</highlighted_element>
+  <language>textmate</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>459</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dimap'</description>
+  <highlighted_element>dimap</highlighted_element>
+  <language>TEXT</language>
+  <offset>61</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>828</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dimap'</description>
+  <highlighted_element>dimap</highlighted_element>
+  <language>TEXT</language>
+  <offset>61</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1230</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dimap'</description>
+  <highlighted_element>dimap</highlighted_element>
+  <language>TEXT</language>
+  <offset>61</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1351</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dimap'</description>
+  <highlighted_element>dimap</highlighted_element>
+  <language>TEXT</language>
+  <offset>61</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1838</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>83</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1840</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1853</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>83</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1855</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1918</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'synchronizers'</description>
+  <highlighted_element>synchronizers</highlighted_element>
+  <language>TEXT</language>
+  <offset>18</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1919</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'NonfairSync'</description>
+  <highlighted_element>NonfairSync</highlighted_element>
+  <language>TEXT</language>
+  <offset>44</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1934</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'synchronizers'</description>
+  <highlighted_element>synchronizers</highlighted_element>
+  <language>TEXT</language>
+  <offset>18</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1935</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'NonfairSync'</description>
+  <highlighted_element>NonfairSync</highlighted_element>
+  <language>TEXT</language>
+  <offset>44</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1950</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'synchronizers'</description>
+  <highlighted_element>synchronizers</highlighted_element>
+  <language>TEXT</language>
+  <offset>18</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1951</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'NonfairSync'</description>
+  <highlighted_element>NonfairSync</highlighted_element>
+  <language>TEXT</language>
+  <offset>44</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1954</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>83</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1956</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1969</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>83</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1971</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1984</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>89</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1986</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>1999</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>90</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>2001</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>2014</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>90</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>2016</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>2029</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>90</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>2031</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>2044</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>83</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt</file>
+  <line>2046</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/crash-reports/crash-2026-03-01_16.29.46-client.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Transferer'</description>
+  <highlighted_element>Transferer</highlighted_element>
+  <language>TEXT</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>3</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Lnet'</description>
+  <highlighted_element>Lnet</highlighted_element>
+  <language>textmate</language>
+  <offset>82</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>7</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'classs'</description>
+  <highlighted_element>classs</highlighted_element>
+  <language>textmate</language>
+  <offset>59</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>62</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fabricloader'</description>
+  <highlighted_element>fabricloader</highlighted_element>
+  <language>textmate</language>
+  <offset>3</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>111</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'llamalad'</description>
+  <highlighted_element>llamalad</highlighted_element>
+  <language>textmate</language>
+  <offset>109</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>150</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'modid'</description>
+  <highlighted_element>modid</highlighted_element>
+  <language>textmate</language>
+  <offset>89</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>150</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'datagen'</description>
+  <highlighted_element>datagen</highlighted_element>
+  <language>textmate</language>
+  <offset>144</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>169</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'screenhandler'</description>
+  <highlighted_element>screenhandler</highlighted_element>
+  <language>textmate</language>
+  <offset>109</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>171</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'faaab'</description>
+  <highlighted_element>faaab</highlighted_element>
+  <language>textmate</language>
+  <offset>227</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>173</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'adcd'</description>
+  <highlighted_element>adcd</highlighted_element>
+  <language>textmate</language>
+  <offset>230</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>252</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'cfcd'</description>
+  <highlighted_element>cfcd</highlighted_element>
+  <language>textmate</language>
+  <offset>144</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>253</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'aeaffd'</description>
+  <highlighted_element>aeaffd</highlighted_element>
+  <language>textmate</language>
+  <offset>136</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>256</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'bdbe'</description>
+  <highlighted_element>bdbe</highlighted_element>
+  <language>textmate</language>
+  <offset>169</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>257</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ecef'</description>
+  <highlighted_element>ecef</highlighted_element>
+  <language>textmate</language>
+  <offset>163</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>258</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fdcaa'</description>
+  <highlighted_element>fdcaa</highlighted_element>
+  <language>textmate</language>
+  <offset>140</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>263</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'eaec'</description>
+  <highlighted_element>eaec</highlighted_element>
+  <language>textmate</language>
+  <offset>147</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>263</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fefc'</description>
+  <highlighted_element>fefc</highlighted_element>
+  <language>textmate</language>
+  <offset>160</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>265</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fceda'</description>
+  <highlighted_element>fceda</highlighted_element>
+  <language>textmate</language>
+  <offset>146</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>266</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'daec'</description>
+  <highlighted_element>daec</highlighted_element>
+  <language>textmate</language>
+  <offset>135</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>268</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ebabcf'</description>
+  <highlighted_element>ebabcf</highlighted_element>
+  <language>textmate</language>
+  <offset>144</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>274</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fbfd'</description>
+  <highlighted_element>fbfd</highlighted_element>
+  <language>textmate</language>
+  <offset>171</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>275</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'bdec'</description>
+  <highlighted_element>bdec</highlighted_element>
+  <language>textmate</language>
+  <offset>151</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>275</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'caabd'</description>
+  <highlighted_element>caabd</highlighted_element>
+  <language>textmate</language>
+  <offset>162</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>276</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'feef'</description>
+  <highlighted_element>feef</highlighted_element>
+  <language>textmate</language>
+  <offset>154</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>276</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'aded'</description>
+  <highlighted_element>aded</highlighted_element>
+  <language>textmate</language>
+  <offset>184</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>276</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'aarch'</description>
+  <highlighted_element>aarch</highlighted_element>
+  <language>textmate</language>
+  <offset>237</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>278</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'cffb'</description>
+  <highlighted_element>cffb</highlighted_element>
+  <language>textmate</language>
+  <offset>172</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>280</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'eecc'</description>
+  <highlighted_element>eecc</highlighted_element>
+  <language>textmate</language>
+  <offset>136</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>281</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'affd'</description>
+  <highlighted_element>affd</highlighted_element>
+  <language>textmate</language>
+  <offset>160</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>283</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fdac'</description>
+  <highlighted_element>fdac</highlighted_element>
+  <language>textmate</language>
+  <offset>137</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>283</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dfad'</description>
+  <highlighted_element>dfad</highlighted_element>
+  <language>textmate</language>
+  <offset>147</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>286</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ebdc'</description>
+  <highlighted_element>ebdc</highlighted_element>
+  <language>textmate</language>
+  <offset>159</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>289</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'becc'</description>
+  <highlighted_element>becc</highlighted_element>
+  <language>textmate</language>
+  <offset>140</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>289</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dbfa'</description>
+  <highlighted_element>dbfa</highlighted_element>
+  <language>textmate</language>
+  <offset>151</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>291</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'aaaf'</description>
+  <highlighted_element>aaaf</highlighted_element>
+  <language>textmate</language>
+  <offset>154</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>293</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dafda'</description>
+  <highlighted_element>dafda</highlighted_element>
+  <language>textmate</language>
+  <offset>153</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>297</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'bdad'</description>
+  <highlighted_element>bdad</highlighted_element>
+  <language>textmate</language>
+  <offset>165</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>298</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'daada'</description>
+  <highlighted_element>daada</highlighted_element>
+  <language>textmate</language>
+  <offset>128</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>298</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fbfdd'</description>
+  <highlighted_element>fbfdd</highlighted_element>
+  <language>textmate</language>
+  <offset>146</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>299</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ebabef'</description>
+  <highlighted_element>ebabef</highlighted_element>
+  <language>textmate</language>
+  <offset>142</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>303</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ddef'</description>
+  <highlighted_element>ddef</highlighted_element>
+  <language>textmate</language>
+  <offset>132</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>306</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fbcdb'</description>
+  <highlighted_element>fbcdb</highlighted_element>
+  <language>textmate</language>
+  <offset>135</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>309</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'feedb'</description>
+  <highlighted_element>feedb</highlighted_element>
+  <language>textmate</language>
+  <offset>131</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>312</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'bdce'</description>
+  <highlighted_element>bdce</highlighted_element>
+  <language>textmate</language>
+  <offset>142</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/debug.log</file>
+  <line>315</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/debug.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'bcbe'</description>
+  <highlighted_element>bcbe</highlighted_element>
+  <language>textmate</language>
+  <offset>167</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>50</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fabricloader'</description>
+  <highlighted_element>fabricloader</highlighted_element>
+  <language>textmate</language>
+  <offset>3</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>54</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'faaab'</description>
+  <highlighted_element>faaab</highlighted_element>
+  <language>textmate</language>
+  <offset>227</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>57</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'llamalad'</description>
+  <highlighted_element>llamalad</highlighted_element>
+  <language>textmate</language>
+  <offset>91</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>58</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Datafixer'</description>
+  <highlighted_element>Datafixer</highlighted_element>
+  <language>textmate</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>61</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'geladen'</description>
+  <highlighted_element>geladen</highlighted_element>
+  <language>textmate</language>
+  <offset>50</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>82</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'realmsclient'</description>
+  <highlighted_element>realmsclient</highlighted_element>
+  <language>textmate</language>
+  <offset>11</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>90</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'unifont'</description>
+  <highlighted_element>unifont</highlighted_element>
+  <language>textmate</language>
+  <offset>50</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>93</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'miplevel'</description>
+  <highlighted_element>miplevel</highlighted_element>
+  <language>textmate</language>
+  <offset>90</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>96</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'blockstate'</description>
+  <highlighted_element>blockstate</highlighted_element>
+  <language>textmate</language>
+  <offset>60</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>196</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'rendertype'</description>
+  <highlighted_element>rendertype</highlighted_element>
+  <language>textmate</language>
+  <offset>103</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>197</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Coord'</description>
+  <highlighted_element>Coord</highlighted_element>
+  <language>textmate</language>
+  <offset>37</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>279</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'shulker'</description>
+  <highlighted_element>shulker</highlighted_element>
+  <language>textmate</language>
+  <offset>88</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>388</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ffedf'</description>
+  <highlighted_element>ffedf</highlighted_element>
+  <language>textmate</language>
+  <offset>64</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>401</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Nieuwe'</description>
+  <highlighted_element>Nieuwe</highlighted_element>
+  <language>textmate</language>
+  <offset>60</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/logs/latest.log</file>
+  <line>403</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/logs/latest.log" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dropoff'</description>
+  <highlighted_element>Dropoff</highlighted_element>
+  <language>textmate</language>
+  <offset>60</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/options.txt</file>
+  <line>12</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/options.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fovEffectScale'</description>
+  <highlighted_element>fovEffectScale</highlighted_element>
+  <language>TEXT</language>
+  <offset>0</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/options.txt</file>
+  <line>58</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/options.txt" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'darkMojangStudiosBackground'</description>
+  <highlighted_element>darkMojangStudiosBackground</highlighted_element>
+  <language>TEXT</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/advancements/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>2</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/advancements/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/advancements/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>8</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/advancements/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/advancements/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>10</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/advancements/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>3</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>4</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>5</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>6</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>7</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>8</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>9</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>10</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json</file>
+  <line>11</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Greenfield v0.5.4/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>2</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>8</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>10</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/c21e574d-957a-383a-949a-73e33ee66435.json</file>
+  <line>2</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/c21e574d-957a-383a-949a-73e33ee66435.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>2</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>8</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>14</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>20</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>26</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>32</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>38</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>44</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>50</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>56</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>62</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>68</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>74</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>80</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>86</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>88</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>92</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/advancements/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>3</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>4</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>5</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>6</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>7</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>8</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json</file>
+  <line>9</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/44e8d65a-a4b2-3c63-9ef0-950bb5685028.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json</file>
+  <line>3</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json</file>
+  <line>4</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json</file>
+  <line>5</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json</file>
+  <line>6</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json</file>
+  <line>7</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json</file>
+  <line>8</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/c21e574d-957a-383a-949a-73e33ee66435.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>3</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>4</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>5</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>6</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>7</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>8</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>9</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>10</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>11</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>12</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>13</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>14</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>16</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>17</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json</file>
+  <line>18</line>
+  <module>courier-template-1.21.11</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/run/saves/Test world/stats/de6c7baa-0bd3-34f4-81e0-2a85bbae7554.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>7</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/Courier.java</file>
+  <line>49</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid</package>
+  <entry_point TYPE="method" FQNAME="name.modid.Courier void onInitialize()" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'verwijderd'</description>
+  <highlighted_element>verwijderd</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/Courier.java</file>
+  <line>57</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid</package>
+  <entry_point TYPE="method" FQNAME="name.modid.Courier void onInitialize()" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'geladen'</description>
+  <highlighted_element>geladen</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/CustomerGenerator.java</file>
+  <line>15</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.CustomerGenerator net.minecraft.core.BlockPos pickDropoff(net.minecraft.server.level.ServerLevel level, net.minecraft.core.BlockPos nearRestaurant, int minDist, int maxDist)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dropoff'</description>
+  <highlighted_element>Dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryConfig.java</file>
+  <line>29</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryConfig DROPOFF_RADIUS" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'DROPOFF'</description>
+  <highlighted_element>DROPOFF</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryConfig.java</file>
+  <line>39</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryConfig TIER1_XP_MULT" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'MULT'</description>
+  <highlighted_element>MULT</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryConfig.java</file>
+  <line>40</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryConfig TIER1_COINS_MULT" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'MULT'</description>
+  <highlighted_element>MULT</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryConfig.java</file>
+  <line>44</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryConfig TIER2_XP_MULT" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'MULT'</description>
+  <highlighted_element>MULT</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryConfig.java</file>
+  <line>45</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryConfig TIER2_COINS_MULT" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'MULT'</description>
+  <highlighted_element>MULT</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>43</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void tick(net.minecraft.server.MinecraftServer server)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dropoff'</description>
+  <highlighted_element>Dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>92</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>62</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Geen'</description>
+  <highlighted_element>Geen</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>62</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ingesteld'</description>
+  <highlighted_element>ingesteld</highlighted_element>
+  <language>JAVA</language>
+  <offset>73</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>73</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Geen'</description>
+  <highlighted_element>Geen</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>73</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dropoff'</description>
+  <highlighted_element>dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>61</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>73</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'gevonden'</description>
+  <highlighted_element>gevonden</highlighted_element>
+  <language>JAVA</language>
+  <offset>69</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>73</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'maken'</description>
+  <highlighted_element>maken</highlighted_element>
+  <language>JAVA</language>
+  <offset>85</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>84</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Nieuwe'</description>
+  <highlighted_element>Nieuwe</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>86</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dropoff'</description>
+  <highlighted_element>Dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>87</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'naar'</description>
+  <highlighted_element>naar</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>87</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Rechtsklik'</description>
+  <highlighted_element>Rechtsklik</highlighted_element>
+  <language>JAVA</language>
+  <offset>71</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>87</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'blok'</description>
+  <highlighted_element>blok</highlighted_element>
+  <language>JAVA</language>
+  <offset>89</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>87</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void startOrder(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'buurt'</description>
+  <highlighted_element>buurt</highlighted_element>
+  <language>JAVA</language>
+  <offset>100</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>101</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'gelukt'</description>
+  <highlighted_element>gelukt</highlighted_element>
+  <language>JAVA</language>
+  <offset>59</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>101</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Bezorg'</description>
+  <highlighted_element>Bezorg</highlighted_element>
+  <language>JAVA</language>
+  <offset>67</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>101</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'klant'</description>
+  <highlighted_element>klant</highlighted_element>
+  <language>JAVA</language>
+  <offset>78</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>102</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'naar'</description>
+  <highlighted_element>naar</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>102</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dropoff'</description>
+  <highlighted_element>dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>63</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>102</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Rechtsklik'</description>
+  <highlighted_element>Rechtsklik</highlighted_element>
+  <language>JAVA</language>
+  <offset>72</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>102</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'blok'</description>
+  <highlighted_element>blok</highlighted_element>
+  <language>JAVA</language>
+  <offset>90</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>102</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void pickup(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'buurt'</description>
+  <highlighted_element>buurt</highlighted_element>
+  <language>JAVA</language>
+  <offset>101</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>126</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void deliver(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Bezorgd'</description>
+  <highlighted_element>Bezorgd</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>126</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager void deliver(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Tijd'</description>
+  <highlighted_element>Tijd</highlighted_element>
+  <language>JAVA</language>
+  <offset>105</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>142</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager java.lang.String debugStatus(net.minecraft.server.level.ServerPlayer player)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dropoff'</description>
+  <highlighted_element>Dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>151</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager boolean isAtDropoff(net.minecraft.server.level.ServerPlayer p)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dropoff'</description>
+  <highlighted_element>Dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>210</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager name.modid.delivery.DeliveryManager.RewardResult reward(net.minecraft.server.level.ServerPlayer player, double distanceBlocks, int secondsFromPickup)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Mult'</description>
+  <highlighted_element>Mult</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>211</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager name.modid.delivery.DeliveryManager.RewardResult reward(net.minecraft.server.level.ServerPlayer player, double distanceBlocks, int secondsFromPickup)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Mult'</description>
+  <highlighted_element>Mult</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryManager.java</file>
+  <line>245</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="method" FQNAME="name.modid.delivery.DeliveryManager java.lang.String routeText(net.minecraft.core.BlockPos from, net.minecraft.core.BlockPos to)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'hier'</description>
+  <highlighted_element>hier</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryState.java</file>
+  <line>6</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryState.Stage GO_DROPOFF" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'DROPOFF'</description>
+  <highlighted_element>DROPOFF</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryState.java</file>
+  <line>11</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryState dropoffPos" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'dropoff'</description>
+  <highlighted_element>dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryState.java</file>
+  <line>18</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryState lastXpMult" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Mult'</description>
+  <highlighted_element>Mult</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/delivery/DeliveryState.java</file>
+  <line>19</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.delivery</package>
+  <entry_point TYPE="field" FQNAME="name.modid.delivery.DeliveryState lastCoinsMult" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Mult'</description>
+  <highlighted_element>Mult</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/hud/HudManager.java</file>
+  <line>43</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.hud</package>
+  <entry_point TYPE="method" FQNAME="name.modid.hud.HudManager void showDropoff(net.minecraft.server.level.ServerPlayer p)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Dropoff'</description>
+  <highlighted_element>Dropoff</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/hud/HudManager.java</file>
+  <line>46</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.hud</package>
+  <entry_point TYPE="method" FQNAME="name.modid.hud.HudManager void showDropoff(net.minecraft.server.level.ServerPlayer p)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Bezorg'</description>
+  <highlighted_element>Bezorg</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/hud/HudManager.java</file>
+  <line>46</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.hud</package>
+  <entry_point TYPE="method" FQNAME="name.modid.hud.HudManager void showDropoff(net.minecraft.server.level.ServerPlayer p)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'klant'</description>
+  <highlighted_element>klant</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/name/modid/hud/HudManager.java</file>
+  <line>55</line>
+  <module>courier-template-1.21.11.main</module>
+  <package>name.modid.hud</package>
+  <entry_point TYPE="method" FQNAME="name.modid.hud.HudManager void showDelivered(net.minecraft.server.level.ServerPlayer p, int coins, int xp, int seconds, java.lang.String bonus)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Bezorgd'</description>
+  <highlighted_element>Bezorgd</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/fabric.mod.json</file>
+  <line>36</line>
+  <module>courier-template-1.21.11.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/fabric.mod.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'fabricloader'</description>
+  <highlighted_element>fabricloader</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/fabric.mod.json</file>
+  <line>37</line>
+  <module>courier-template-1.21.11.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/fabric.mod.json" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'minecraft'</description>
+  <highlighted_element>minecraft</highlighted_element>
+  <language>JSON</language>
+  <offset>3</offset>
+  <length>9</length>
+</problem>
+</problems>
