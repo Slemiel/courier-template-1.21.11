@@ -61,4 +61,3 @@ public class Courier implements ModInitializer {
 		);
 	}
 }
-s

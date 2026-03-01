@@ -3,27 +3,24 @@ package name.modid.delivery;
 import net.minecraft.core.BlockPos;
 
 public class DeliveryState {
-    public enum Stage {
-        NONE,
-        GO_RESTAURANT,
-        GO_DROPOFF
-    }
+
+    public enum Stage { NONE, GO_RESTAURANT, GO_DROPOFF }
 
     public Stage stage = Stage.NONE;
 
-    // Dit was bij jou kwijt geraakt. Courier en DeliveryInteractions verwachten dit.
-    public BlockPos restaurantPos = null;
-    public BlockPos dropoffPos = null;
+    public String restaurantName = "";
 
-    public String restaurantName = "Restaurant";
+    // ✅ Deze velden moeten bestaan omdat Courier/Manager/Interactions ze gebruiken
+    public BlockPos pickupPos = null;
+    public BlockPos dropoffPos = null;
 
     public long pickupGameTime = 0L;
 
     public void clear() {
         stage = Stage.NONE;
-        restaurantPos = null;
+        restaurantName = "";
+        pickupPos = null;
         dropoffPos = null;
-        restaurantName = "Restaurant";
         pickupGameTime = 0L;
     }
 }

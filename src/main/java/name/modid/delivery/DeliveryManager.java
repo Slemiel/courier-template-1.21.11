@@ -56,7 +56,7 @@ public final class DeliveryManager {
 
     private static DeliveryConfig.Restaurant pickRestaurant(ServerLevel level, List<DeliveryConfig.Restaurant> list) {
         if (list == null || list.isEmpty()) {
-            BlockPos spawn = level.getSharedSpawnPos();
+            BlockPos spawn = level.getLevelData().getRespawnData().pos(); // ✅ mapping-safe in jouw build
             return new DeliveryConfig.Restaurant("Restaurant", spawn);
         }
         int idx = level.random.nextInt(list.size());
