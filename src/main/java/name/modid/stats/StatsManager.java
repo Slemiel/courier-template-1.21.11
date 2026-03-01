@@ -8,7 +8,6 @@ import java.util.Map;
 import java.util.UUID;
 
 public final class StatsManager {
-
     private StatsManager() {}
 
     private static final class Stats {
@@ -34,7 +33,7 @@ public final class StatsManager {
         Stats st = s(p);
         st.xp += amount;
 
-        // Simpel level systeem. 100 xp per level, oplopend met 50 per level.
+        // Simpel level systeem: 100 xp per level, oplopend met 50 per level.
         while (st.xp >= xpForNextLevel(st.level)) {
             st.xp -= xpForNextLevel(st.level);
             st.level++;
@@ -45,25 +44,17 @@ public final class StatsManager {
         return 100 + (currentLevel - 1) * 50;
     }
 
-    public static int getCoins(ServerPlayer p) {
-        return s(p).coins;
-    }
-
-    public static int getXp(ServerPlayer p) {
-        return s(p).xp;
-    }
-
-    public static int getLevel(ServerPlayer p) {
-        return s(p).level;
-    }
-
-    public static int getNextXp(ServerPlayer p) {
-        return xpForNextLevel(s(p).level);
-    }
+    public static int getCoins(ServerPlayer p) { return s(p).coins; }
+    public static int getXp(ServerPlayer p) { return s(p).xp; }
+    public static int getLevel(ServerPlayer p) { return s(p).level; }
+    public static int getNextXp(ServerPlayer p) { return xpForNextLevel(s(p).level); }
 
     public static void sendStatus(ServerPlayer p) {
         p.sendSystemMessage(Component.literal(
-                "Coins=" + getCoins(p) + " XP=" + getXp(p) + " Level=" + getLevel(p) + " NextXP=" + getNextXp(p)
+                "Coins=" + getCoins(p) +
+                        " XP=" + getXp(p) +
+                        " Level=" + getLevel(p) +
+                        " NextXP=" + getNextXp(p)
         ));
     }
 }

@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public final class DeliveryConfig {
-
     private DeliveryConfig() {}
 
     public record Restaurant(String name, BlockPos pos) {}
@@ -21,7 +20,7 @@ public final class DeliveryConfig {
 
     static {
         // Tijdelijke defaults. Jij stuurt later vaste coordinaten door.
-        // Let op. Y wordt genegeerd, we projecteren naar grond.
+        // Let op: Y wordt genegeerd, we projecteren XZ naar grond.
         RESTAURANTS.add(new Restaurant("Fruits Corner", new BlockPos(0, 0, 0)));
         RESTAURANTS.add(new Restaurant("Pizza Plaza", new BlockPos(-35, 0, 25)));
     }

@@ -12,7 +12,6 @@ import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
 
 public final class DeliveryManager {
-
     private DeliveryManager() {}
 
     private static final Map<UUID, DeliveryState> STATE = new ConcurrentHashMap<>();
@@ -26,7 +25,7 @@ public final class DeliveryManager {
     }
 
     public static void startOrder(ServerPlayer player) {
-        ServerLevel level = player.serverLevel();
+        ServerLevel level = (ServerLevel) player.level(); // mapping-safe
         DeliveryState s = get(player);
         s.clear();
 
@@ -50,18 +49,15 @@ public final class DeliveryManager {
         s.stage = DeliveryState.Stage.GO_RESTAURANT;
 
         player.sendSystemMessage(Component.literal("Nieuwe order. Pickup bij: " + s.restaurantName));
-        player.sendSystemMessage(Component.literal("Pickup: " + s.pickupPos.getX() + " " + s.pickupPos.getY() + " " + s.pickupPos.getZ()));
-        player.sendSystemMessage(Component.literal("Dropoff: " + s.dropoffPos.getX() + " " + s.dropoffPos.getY() + " " + s.dropoffPos.getZ()));
+        player.sendSystemMessage(Component.literal("Pickup: " + xyz(s.pickupPos)));
+        player.sendSystemMessage(Component.literal("Dropoff: " + xyz(s.dropoffPos)));
         player.sendSystemMessage(Component.literal("Order gestart."));
     }
 
     private static DeliveryConfig.Restaurant pickRestaurant(ServerLevel level, List<DeliveryConfig.Restaurant> list) {
         if (list == null || list.isEmpty()) {
-            // Spawn fallback, via LevelData velden, geen getSpawnPos.
-            int x = level.getLevelData().getXSpawn();
-            int y = level.getLevelData().getYSpawn();
-            int z = level.getLevelData().getZSpawn();
-            return new DeliveryConfig.Restaurant("Restaurant", new BlockPos(x, y, z));
+            BlockPos spawn = level.getSharedSpawnPos();
+            return new DeliveryConfig.Restaurant("Restaurant", spawn);
         }
         int idx = level.random.nextInt(list.size());
         return list.get(idx);
@@ -112,9 +108,9 @@ public final class DeliveryManager {
         StatsManager.addXp(player, xp);
 
         String msg = "Bezorgd. +" + coins + " Coins, +" + xp + " XP. Tijd: " + seconds + "s";
-        if (speedBonus) msg += ". Speed bonus";
-
+        if (speedBonus) msg += " (Speed bonus)";
         player.sendSystemMessage(Component.literal(msg));
+
         StatsManager.sendStatus(player);
 
         // Auto nieuwe order
@@ -126,5 +122,9 @@ public final class DeliveryManager {
         int dy = a.getY() - b.getY();
         int dz = a.getZ() - b.getZ();
         return dx * dx + dy * dy + dz * dz <= r * r;
+    }
+
+    private static String xyz(BlockPos p) {
+        return p.getX() + " " + p.getY() + " " + p.getZ();
     }
 }
