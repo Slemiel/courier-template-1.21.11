@@ -26,7 +26,7 @@ public final class DeliveryManager {
     }
 
     public static void startOrder(ServerPlayer player) {
-        ServerLevel level = player.serverLevel();
+        ServerLevel level = player.level();
         DeliveryState s = get(player);
         s.clear();
 
@@ -57,11 +57,8 @@ public final class DeliveryManager {
 
     private static DeliveryConfig.Restaurant pickRestaurant(ServerLevel level, List<DeliveryConfig.Restaurant> list) {
         if (list == null || list.isEmpty()) {
-            // Spawn fallback, via LevelData velden, geen getSpawnPos.
-            int x = level.getLevelData().getXSpawn();
-            int y = level.getLevelData().getYSpawn();
-            int z = level.getLevelData().getZSpawn();
-            return new DeliveryConfig.Restaurant("Restaurant", new BlockPos(x, y, z));
+            // Spawn fallback vanuit world spawn positie.
+            return new DeliveryConfig.Restaurant("Restaurant", level.getRespawnData().pos());
         }
         int idx = level.random.nextInt(list.size());
         return list.get(idx);
